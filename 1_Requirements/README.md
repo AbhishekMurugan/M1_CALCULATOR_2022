@@ -2,6 +2,7 @@
 
 ## Introduction
 	We will discuss how we write a calculator program in the C programming language. How a Calculator is used to perform various arithmetic operations like addition, subtraction, multiplication, division, percentage, etc. It makes our calculations easier and faster. 
+
 	C which will perform basic arithmetic operations like addition, subtraction, multiplication, division, and remainder depending on the input from the user.
 Users will have the choice to choose the operation. If the user chooses the wrong operation, then they will get an error message.
 ## Research
@@ -15,6 +16,7 @@ Users will have the choice to choose the operation. If the user chooses the wron
 	It has a various type of operation in the calculator so, the user can solve the problem in quickly and it work as addition, subtraction, multiplication, division, percentage, modulus etc.
 
 ## SWOT ANALYSIS
+![SWOT analysis ](https://github.com/AbhishekMurugan/M1_MARCH_2022/blob/main/1_Requirements/SWOT%20analysis.jpg)
        
 
 ### 4W&#39;s and 1&#39;H
